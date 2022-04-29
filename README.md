@@ -1,4 +1,4 @@
 # waxlite
-## A hacky combo of eos-sharp and cryptography.ECDSA. Modified and stuffed into a unity Project 
+## A hacky combo of eos-sharp and cryptography.ECDSA. Modified and stuffed into a unity thing 
 
-...to be uploaded in the morn
+It might work?
